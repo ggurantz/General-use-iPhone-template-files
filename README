@@ -1,0 +1,11 @@
+To have these templates show up in XCode 3.x:
+
+1. In case this folder doesn't exist, run:
+
+mkdir -p ~/Library/Application\ Support/Developer/Shared/Xcode/File\ Templates/GGTemplates
+
+2. Create a symbolic link from your new folder to this repository:
+
+ln -s (path to root of repo)/GGTemplates ~/Library/Application\ Support/Developer/Shared/Xcode/File\ Templates/GGTemplates
+
+3. Vua-la! It should no show up when you try to create a new file in XCode (under User Templates)
