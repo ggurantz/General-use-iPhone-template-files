@@ -1,10 +1,10 @@
 To have these templates show up in XCode 3.x:
 
-1. In case this folder doesn't exist, run:
+1. Open terminal and run:
 
 mkdir -p ~/Library/Application\ Support/Developer/Shared/Xcode/File\ Templates/GGTemplates
 
-2. Create a symbolic link from your new folder to this repository:
+2. Create a symbolic link from your new folder to this repository (or, just copy 'GGTemplates' into the 'File Templates' folder)
 
 ln -s (path to root of repo)/GGTemplates ~/Library/Application\ Support/Developer/Shared/Xcode/File\ Templates/GGTemplates
 
