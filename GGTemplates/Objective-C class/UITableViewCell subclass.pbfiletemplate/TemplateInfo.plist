@@ -1,0 +1,5 @@
+{
+	MainTemplateFile = "class.m";
+	"CounterpartTemplateFile" = "class.h";
+	Description = "An Objective-C subclass of UITableViewCell, with an optional header file which includes the <UIKit/UIKit.h> header.";
+}

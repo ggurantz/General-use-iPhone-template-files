@@ -1,0 +1,18 @@
+{
+	Checkboxes = (
+		{
+			Key = Table;
+			Title = "Include UITableView";
+		},
+		{
+			Key = XIB;
+			Title = "Include XIB";
+		},
+	);
+	TemplateSelection = {
+		"" = "UIViewController subclass";
+		Table = "UIViewController subclass with UITableView";
+		TableXIB = "UIViewController subclass with UITableView and XIB";
+		XIB = "UIViewController subclass with XIB";
+	};
+}

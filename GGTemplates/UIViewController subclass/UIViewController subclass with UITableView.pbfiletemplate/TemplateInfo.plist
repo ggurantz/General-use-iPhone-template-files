@@ -1,0 +1,5 @@
+{
+	MainTemplateFile = "class.m";
+	"CounterpartTemplateFile" = "class.h";
+	Description = "An Objective-C subclass of UIViewController, which includes a UITableView and the required UITableViewDelegate and UITableViewDataSource methods";
+}
