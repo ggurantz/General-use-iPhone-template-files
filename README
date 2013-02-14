@@ -1,3 +1,5 @@
+OBSOLETE. Only compatible with XCode 3.x
+
 These template files include highly used methods, and a private category, for the following classes:
 
 NSObject
